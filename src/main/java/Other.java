@@ -1,3 +1,5 @@
 public class Other {
-  System.out.println("Hello:);
+  public void sayHello() {
+    System.out.println("Hello");
+  }
 }
